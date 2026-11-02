@@ -1,7 +1,7 @@
 # Project-Portfolio
 ## 🎬 My Animation Projects
 
-### Animation – My Animation
+### My Animation
 
 This is one of my animation projects created for my Digital Arts subject.
 
